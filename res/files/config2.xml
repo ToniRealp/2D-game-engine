@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<enemy name="Jhonny" >
+		<vitality>100</vitality>
+		<damage>10</damage>
+		<defense>5</defense>
+		<attFreq>2</attFreq>
+		<exp>500</exp>
+		<weapons>
+			<weap id="sword">
+				<type>melee</type>
+				<range>2</range>
+			</weap>
+			<weap id="gun">
+				<type>ranged</type>
+				<range>10</range>
+			</weap>
+		</weapons>
+	</enemy>
+	
+	<enemy name="Timmy" >
+		<vitality>200</vitality>
+		<damage>20</damage>
+		<defense>6</defense>
+		<attFreq>3</attFreq>
+		<exp>1000</exp>
+		<weapons>
+			<weap id="sword">
+				<type>melee</type>
+				<range>3</range>
+			</weap>
+			<weap id="gun">
+				<type>ranged</type>
+				<range>12</range>
+			</weap>
+		</weapons>
+	</enemy>
+	
+	<enemy name="Armany" >
+		<vitality>300</vitality>
+		<damage>30</damage>
+		<defense>7</defense>
+		<attFreq>3</attFreq>
+		<exp>1500</exp>
+		<weapons>
+			<weap id="sword">
+				<type>melee</type>
+				<range>4</range>
+			</weap>
+			<weap id="gun">
+				<type>ranged</type>
+				<range>13</range>
+			</weap>
+		</weapons>
+	</enemy>
+	
+	<enemy name="Trapy" >
+		<vitality>400</vitality>
+		<damage>40</damage>
+		<defense>8</defense>
+		<attFreq>3</attFreq>
+		<exp>2000</exp>
+		<weapons>
+			<weap id="sword">
+				<type>melee</type>
+				<range>5</range>
+			</weap>
+			<weap id="gun">
+				<type>ranged</type>
+				<range>14</range>
+			</weap>
+		</weapons>
+	</enemy>
+	
+</game>
